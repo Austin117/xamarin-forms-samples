@@ -4,7 +4,7 @@ The samples in this repository demonstrate how to use different aspects of Xamar
 
 For additional platform support, visit the following forks:
 
-- Tizen: https://github.com/Samsung/xamarin-forms-samples 
+- Tizen: https://github.com/Samsung/xamarin-forms-samples
 - GTK#: https://github.com/jsuarezruiz/xamarin-forms-samples/tree/gtk
 
 ## License
@@ -41,9 +41,9 @@ The Xamarin.Forms samples in the [Microsoft samples browser](https://docs.micros
     description: This sample demonstrates a Todo list application where the data is stored and accessed from a RESTful web service.
     page_type: sample
     languages:
-    - csharp
+      - csharp
     products:
-    - xamarin
+      - xamarin
     urlFragment: webservices-todorest
     ---
     # Heading 1
@@ -58,4 +58,3 @@ The Xamarin.Forms samples in the [Microsoft samples browser](https://docs.micros
 This approach ensures that all samples integrate with the Microsoft [sample code browser](https://docs.microsoft.com/samples/browse/?term=Xamarin.Forms).
 
 If you have any questions, create an issue or ask on the [Xamarin Forums](https://forums.xamarin.com/).
-
